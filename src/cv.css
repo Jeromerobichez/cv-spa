@@ -1,0 +1,12 @@
+.cv-page {
+    display: flex;
+    flex-direction: row;
+}
+    .left-column {
+    width: 30%;
+    background-color: red;
+    }
+    .right-column {
+    width: 70%;
+    background-color: aqua;
+    }
